@@ -1,0 +1,2 @@
+Prefix plugins/Encoder/example/
+Plugin Encoder inputfile /biorg/data/Weather/ outputfile encoder.h5
